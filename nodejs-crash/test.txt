@@ -1,0 +1,2 @@
+This is what I'm writing in the file
+This is what I'm appending in the file
